@@ -1,1 +1,3 @@
-# XZ-Utils_Detect-
+# XZ-Utils_Detect
+
+For Mac os
